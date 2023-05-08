@@ -1,0 +1,6 @@
+search command prompt
+right click and open as administrator
+
+paste 
+
+gpupdate /force
